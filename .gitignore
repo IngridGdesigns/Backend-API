@@ -1,0 +1,7 @@
+#ignore
+.DS_store
+
+node_modules
+.node_modules
+.notes.js
+notes.js
